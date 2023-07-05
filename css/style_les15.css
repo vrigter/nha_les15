@@ -1,6 +1,5 @@
 
 
-INDELING
 header{
     padding: 5px;
 }
@@ -20,7 +19,6 @@ footer{
 }
 
 
-TEXT
 h1{
     font-family: Verdana;
     font-size: 25px;
@@ -37,7 +35,6 @@ p{
 }
 
 
-ELEMENTEN
 ul{
     align-items: center;
     display: flex;
